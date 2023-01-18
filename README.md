@@ -83,3 +83,5 @@ In high school, in 2008, [2009](https://www.youtube.com/watch?v=iW8FksnGJlo "my 
 ## My GitHub Stats 📈 
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=beowoolf&show_icons=true&theme=gotham&count_private=true&locale=en&cache_seconds=7200&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beowoolf&langs_count=10&theme=gotham)
