@@ -76,7 +76,7 @@ In high school, in 2008, [2009](https://www.youtube.com/watch?v=iW8FksnGJlo "my 
 
 - 🗣 [My website](https://pawel-wilczek.mojezapiski.pl/)
 - 🔴 [YouTube](https://www.youtube.com/@pawewilczek5102)
-- 📸 [Instagram](https://www.instagram.com/developerwolf/)
+- 📸 [Instagram](https://www.instagram.com/spring.java.nuxt.js.developer/)
 - 🐦 [Twitter](https://twitter.com/CyberZiom)
 - 🔗 [Linkedin](https://pl.linkedin.com/in/pawe%C5%82-wilczek-885803151)
 
