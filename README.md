@@ -1,6 +1,6 @@
 # About me
 
-**Cenbit Founder** 🔹 **BFC** 🔹 **Experienced developer** 🔹 **Speaker and trainer** 🔹 **YouTuber and blogger** 🔹 **Spring Boot** 🔹 **Microservices** 🔹 **Vue.js** 🔹 **Nuxt.js** 🔹 **Webinars and IT trainings**
+**Cenbit Founder** 🔹 **BFC** 🔹 **Spring AI** 🔹 **Spring Boot** 🔹 **Nuxt.js** 🔹 **Vue.js** 🔹 **Experienced developer** 🔹 **Microservices** 🔹 **Speaker and trainer** 🔹 **YouTuber and blogger** 🔹 **Webinars and IT trainings**
 
 ![Me and Spring](SpringBoot.jpeg)
 
